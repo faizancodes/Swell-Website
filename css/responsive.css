@@ -234,6 +234,10 @@
         margin-left: 0px;
     }
 
+    .mobile-image {
+        margin-top: -200px;
+    }
+
     .learn-more {
         margin-top: 20px;
         margin-left: 65px;
@@ -246,8 +250,13 @@
     }
 
     .teampic {
-        margin-top: -40px;
-        margin-left: 50px;
+        margin-top: -200px;
+        margin-left: 55px;
+    }
+
+    .mobilepic{
+        margin-top: -90px;
+        margin-left: 45px;
     }
 
     .blog-title {

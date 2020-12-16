@@ -44,11 +44,21 @@
 
 /* Banner Area */
 
+.title-text{
+    font-size: 24px;
+    text-align: center;
+}
+
+.title-text-1 {
+    font-size: 26px;
+    text-align: center;
+}
+
 .swelllogo
 {
     height: 300px;
     width: 300px; 
-    margin-top: -90px;
+    margin-top: -100px;
     margin-left: 55px;
 }
 
@@ -80,6 +90,18 @@
 
 .banner-image {
     padding-top: 60px;
+}
+
+.teampic {
+    margin-left: 30px; 
+    margin-top: 60px;
+    border-radius: 5%;
+}
+
+.mobilepic{
+    margin-left: 30px;
+    margin-top: 20px; 
+    border-radius: 5%;"
 }
 
 .ai-image {
